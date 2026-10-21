@@ -1,0 +1,9 @@
+Package: com.local.externalstagemanager16.routing
+Name: ExternalStageManager16 Routing Backport
+Version: 0.3.0~experimental4
+Architecture: iphoneos-arm
+Description: Experimental per-scene transient UI and pointer-routing behavior backport for iPadOS 16.1 build 20B82. Requires device validation.
+Maintainer: Local Build
+Author: Local Build
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.1), firmware (<< 16.2)
