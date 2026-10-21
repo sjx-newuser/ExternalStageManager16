@@ -1,0 +1,9 @@
+Package: com.local.externalstagemanager16
+Name: ExternalStageManager16
+Version: 0.2.0
+Architecture: iphoneos-arm
+Description: Enables external Stage Manager availability and external-display bottom-right window resize on iPadOS 16.1.x.
+Maintainer: Local Build
+Author: Local Build
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 16.1), firmware (<< 16.2)
